@@ -25,3 +25,4 @@ Key Features:
 
 
 Whether you're just getting started with the Raspberry Pi Pico or looking to expand your skillset, the Kontakts Professional Kit provides everything you need for your next project.
+The Raspberry Pi Pico is a tiny dual core ARM based microcontroller. More information on the Pico can be found on the Pi website: https://www.raspberrypi.org/products/raspberry-pi-pico/
