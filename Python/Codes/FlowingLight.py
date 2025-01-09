@@ -1,5 +1,5 @@
-# Video
-# Post
+# Video https://youtu.be/g2b9v4ZtzKs
+# Post http://kontakts.ru/showthread.php/40884?p=86122#post86122
 from machine import Pin  # Импортируем класс для работы с пинами
 import utime  # Импортируем модуль для работы с задержками
 
