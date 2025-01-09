@@ -1,3 +1,5 @@
+# Video https://youtu.be/25nHNE9a66A
+# Post http://kontakts.ru/showthread.php/40884?p=86121#post86121
 from machine import Pin, PWM  # Импортируем классы для работы с пинами и PWM
 import utime  # Импортируем модуль для работы со временем (задержки)
 
