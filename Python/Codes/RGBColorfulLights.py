@@ -1,3 +1,6 @@
+# Video https://youtu.be/GBifBKVveAo
+# Post  http://kontakts.ru/showthread.php/40884?p=86123#post86123
+
 from machine import Pin, PWM
 import utime
 import random
@@ -8,8 +11,7 @@ Led_G = PWM(Pin(3))  # Зелёный светодиод на пине 3
 Led_B = PWM(Pin(4))  # Синий светодиод на пине 4
 
 # Устанавливаем частоту PWM для всех светодиодов
-# Video
-# Post
+
 Led_R.freq(2000)
 Led_G.freq(2000)
 Led_B.freq(2000)
