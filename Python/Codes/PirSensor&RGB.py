@@ -1,5 +1,5 @@
-# Video
-# Post
+# Video https://youtu.be/CRks39pAIWQ
+# Post http://kontakts.ru/showthread.php/40884?p=86127#post86127
 from machine import Pin, PWM
 from utime import sleep
 
