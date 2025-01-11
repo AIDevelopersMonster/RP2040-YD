@@ -1,5 +1,5 @@
 # Video https://youtu.be/tM3XkLIygSY
-# Post
+# Post http://kontakts.ru/showthread.php/40884?p=86130#post86130
 from machine import Pin, ADC
 import time
 
