@@ -1,3 +1,5 @@
+# video https://youtu.be/vy5qm2woiEY
+# post http://kontakts.ru/showthread.php/40884?p=86132#post86132
 from machine import Pin, PWM
 from time import sleep
 
