@@ -1,23 +1,24 @@
-import machine
-import time
+from machine import Pin, PWM
+from time import sleep
 
-# Массив пинов GPIO (исключаем зарезервированные пины)
-gpio_pins = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 26, 27, 28]
+# Пин для подключения пассивного базера
+buzzer = Pin(15, Pin.OUT)
+buzzer_pwm = PWM(buzzer)
 
-# Создаем пины как выходы
-pins = [machine.Pin(pin, machine.Pin.OUT) for pin in gpio_pins]
+# Функция для воспроизведения тревожной сирены (Alarm)
+def alarm_sound():
+    while True:
+        # Быстрое изменение частоты для имитации тревожного сигнала
+        for i in range(5):  # Пять циклов звука тревоги
+            buzzer_pwm.freq(1000)  # Высокая частота
+            buzzer_pwm.duty_u16(32768)  # Средняя громкость
+            sleep(0.1)  # Пауза для высокой частоты
 
-while True:
-    # Включаем все пины
-    for pin in pins:
-        pin.on()
-    
-    # Задержка 0,5 секунды
-    time.sleep(0.5)
+            buzzer_pwm.freq(500)  # Низкая частота
+            buzzer_pwm.duty_u16(32768)  # Средняя громкость
+            sleep(0.1)  # Пауза для низкой частоты
 
-    # Выключаем все пины
-    for pin in pins:
-        pin.off()
+        sleep(1)  # Пауза перед повтором
 
-    # Задержка 0,5 секунды
-    time.sleep(0.5)
+# Запуск тревожного сигнала
+alarm_sound()
