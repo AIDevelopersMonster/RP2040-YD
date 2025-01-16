@@ -29,3 +29,4 @@ https://youtu.be/Gk0SUBNfRfs
 25. 🎮 Управление сервомотором SG90 с Raspberry Pi Pico 🤖 Без библиотек. Ломаем преграды! https://youtu.be/HhoNVFfJqwY
 26. 🚀 Управление сервоприводом SG90 с помощью потенциометра на Raspberry Pi Pico! 🤖 https://youtu.be/_aplwOxeBaE
 27. 🎮 Управление сервоприводом с помощью PS2 Джойстика на Raspberry Pi Pico | Простой код для профи 🤖 https://youtu.be/ivr4pP-nU7w
+28. 🔒 Как работать с RFID картами и записывать данные на карту 🔑 https://youtu.be/jMXXsbkHSAs
