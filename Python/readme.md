@@ -39,3 +39,4 @@ https://youtu.be/Gk0SUBNfRfs
 35. 🔧Работа с энкодером и 7-сегментным дисплеем на MicroPython 🔧 https://youtu.be/-b29zY6aEKs?si=C3EDiTzmSZvRbvja
 36. 🎉 Тестирование LCD 1602 с I2C: Проверь свой экран! 🎉  https://youtu.be/vIH6wGJScnQ?si=wwp22HwNwtc11VFC
 37. 🔥 Температурный и Влажностный монитор с DHT11 и LCD1602 🌡️💧 https://www.youtube.com/watch?v=8d8kcPs00Zk
+38. 🌧️ Датчик Дождя с LCD и Светодиодами | Защита от Наводнений 🌧️ https://youtu.be/P4ZkJdV1Law
