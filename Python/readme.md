@@ -31,3 +31,11 @@ https://youtu.be/Gk0SUBNfRfs
 27. 🎮 Управление сервоприводом с помощью PS2 Джойстика на Raspberry Pi Pico | Простой код для профи 🤖 https://youtu.be/ivr4pP-nU7w
 28. 🔒 Как работать с RFID картами и записывать данные на карту 🔑 https://youtu.be/jMXXsbkHSAs
 29. 🔒 Управление замком с RFID-картой и кнопкой + RGB светодиод! 🔑  🔴🟢 https://youtu.be/hMVxpWt_qS8
+30. ⏰ Умные Часы на ESP8266 с NTP и RTC DS3231: Получение Времени и Обновление через Wi-Fi! 🌍 https://youtu.be/WD6t7rocsAE
+31. 📡 Как найти устройства на шине I2C с помощью Raspberry Pi Pico и MicroPython! https://youtu.be/eqQt_BPlnCk
+32. 🕰 Как работать с DS3231 и считывать время с помощью MicroPython на Raspberry Pi Pico https://youtu.be/v333leLF_rc
+33. 🕰 Как подключить и вывести время с DS3231 на 7-сегментный дисплей HW-069 с Pi Pico и MicroPython https://youtu.be/JnlCvDAuN9M?si=YVyyDl1xS7RHSU7s
+34. 🔴🟢🔵 Как сделать умный светофор с кнопкой и временем на 7-сегментном дисплее 🌟 https://youtu.be/TbPmAjyyn54?si=6pVt8CZOip23ojgf
+35. 🔧Работа с энкодером и 7-сегментным дисплеем на MicroPython 🔧 https://youtu.be/-b29zY6aEKs?si=C3EDiTzmSZvRbvja
+36. 🎉 Тестирование LCD 1602 с I2C: Проверь свой экран! 🎉  https://youtu.be/vIH6wGJScnQ?si=wwp22HwNwtc11VFC
+37. 🔥 Температурный и Влажностный монитор с DHT11 и LCD1602 🌡️💧 https://www.youtube.com/watch?v=8d8kcPs00Zk
