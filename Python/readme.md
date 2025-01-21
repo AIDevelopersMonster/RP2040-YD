@@ -45,3 +45,4 @@ https://youtu.be/Gk0SUBNfRfs
 41. 🎮 DIY Микрокалькулятор на Raspberry Pi Pico с ЖК-дисплеем и клавиатурой! 💡 https://youtu.be/IX0w0CLMyTs?si=0-5Uotua-p9d-vf6
 42. System Info вместо "Hello world" Как не превращать IT в детскую блажь! https://youtu.be/wQxA29lF2_A?si=ITLpiS_o03lv7Jef
 43. Бегущая строка и мигающие точки на 4-разрядном семисегментном дисплее с TM1650! 🎉https://youtu.be/q1WGpoeGp78?si=QS2VICra7hnNQZhp
+44. Управление матрицей 8x8 LED с помощью HT16K33 с Raspberry Pi Pico по I2C! https://youtu.be/HVuP_1-ugng
