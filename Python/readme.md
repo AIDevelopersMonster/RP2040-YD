@@ -41,3 +41,4 @@ https://youtu.be/Gk0SUBNfRfs
 37. 🔥 Температурный и Влажностный монитор с DHT11 и LCD1602 🌡️💧 https://www.youtube.com/watch?v=8d8kcPs00Zk
 38. 🌧️ Датчик Дождя с LCD и Светодиодами | Защита от Наводнений 🌧️ https://youtu.be/P4ZkJdV1Law
 39. 🔥 Обнаружение огня с использованием инфракрасного датчика и звуковой сигнализации! 🔥 https://youtu.be/nvgrd8tqUyM
+40. 🌟 Проект: Температура, Влажность и Время с DHT11 и DS3231 на OLED дисплее https://youtu.be/daVqzR42fFs
