@@ -1,3 +1,5 @@
+# Video https://youtu.be/q1WGpoeGp78
+# Post http://kontakts.ru/showthread.php/40884?p=86164#post86164
 from machine import Pin, I2C
 import time
 
