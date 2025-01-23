@@ -1,3 +1,5 @@
+# Video https://youtu.be/wQxA29lF2_A
+# https://wokwi.com/projects/420851896572795905
 import machine
 import os
 import sys
