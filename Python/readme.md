@@ -55,3 +55,4 @@ https://youtu.be/Gk0SUBNfRfs
 51. Как подключить и проверить джойстик на Raspberry Pi Pico | Полная инструкция https://youtu.be/pltAmwSWYRw
 52. Как подключить и использовать джойстик для управления мотором с реверсированием  на Pi Pico https://youtu.be/t_ZXlH4N5PQ
 53. 🌟 Project: Servo Motor Control – Simulation & Real-World Test 🌟 https://www.youtube.com/watch?v=9w0BR8OFYNE
+54. 🚀 Управление шаговым двигателем 28byj-48  с помощью микросхемы ULN2003 | MicroPython https://youtu.be/YKpZuzaqmtQ
