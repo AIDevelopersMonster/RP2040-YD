@@ -59,3 +59,4 @@ https://youtu.be/Gk0SUBNfRfs
 55. 🔥 Подключаем РЕЛЕ к Raspberry Pi Pico! Управляем мощными нагрузками! 🚀 https://youtu.be/9gQi42ewuco
 56. 🌞💡 Автоматическое освещение с Raspberry Pi Pico! Управляем реле по свету! 🔥 https://youtu.be/xUFz9EuGOl4
 57. 🌟 Автоматический свет на Raspberry Pi Pico! PIR + Фоторезистор + Реле 💡 https://youtu.be/Q8YzDCzPAGQ
+58. Проект: Умный термометр с LM35 на Raspberry Pi Pico 🌡️🖥️ | Простой Plotter тест LM35 на MicroPython https://youtu.be/uadDWUCNeHg
