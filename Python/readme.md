@@ -57,3 +57,4 @@ https://youtu.be/Gk0SUBNfRfs
 53. 🌟 Project: Servo Motor Control – Simulation & Real-World Test 🌟 https://www.youtube.com/watch?v=9w0BR8OFYNE
 54. 🚀 Управление шаговым двигателем 28byj-48  с помощью микросхемы ULN2003 | MicroPython https://youtu.be/YKpZuzaqmtQ
 55. 🔥 Подключаем РЕЛЕ к Raspberry Pi Pico! Управляем мощными нагрузками! 🚀 https://youtu.be/9gQi42ewuco
+56. 🌞💡 Автоматическое освещение с Raspberry Pi Pico! Управляем реле по свету! 🔥 https://youtu.be/xUFz9EuGOl4
