@@ -1,4 +1,4 @@
-# Video https://youtu.be/XvvTKivE40c
+# Video https://youtu.be/6hEZJ9XjZtY
 # Post http://kontakts.ru/showthread.php/40884?p=86205#post86205
 # Telega https://t.me/MrMicroPython
 # 📜 Лицензия 🔗 Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA)
