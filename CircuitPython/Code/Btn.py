@@ -1,6 +1,8 @@
-# Video https://youtu.be/TgXlUb0fcmA
-# Post http://kontakts.ru/showthread.php/40884?p=86201#post86201
+# Video https://youtu.be/2pRbEtfz0Os
+# Post http://kontakts.ru/showthread.php/40884?p=86202#post86202
 # Telega https://t.me/MrMicroPython
+# 📜 Лицензия 🔗 Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA)
+# 📂 Оригинальный код для платы PicoMate https://wiki.deskpi.com/picomate/#pinout-diagram
 import board  # Импорт модуля для работы с пинами микроконтроллера
 import digitalio  # Импорт модуля для управления цифровыми входами и выходами
 
