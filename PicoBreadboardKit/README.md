@@ -52,4 +52,4 @@
 ### 2. Загрузка и использование кода:
 1. Клонируйте репозиторий с помощью следующей команды:
    ```bash
-   git clone https://github.com/your-repo/Pico-Breadboard-Kit.git
+ git clone https://github.com/AIDevelopersMonster/Kontakts_Professional_Kit_for_Raspberry_Pi_Pico.git
