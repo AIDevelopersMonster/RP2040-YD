@@ -1,5 +1,6 @@
- 
-
+ # Video https://youtu.be/I5QRBKMpMBE
+# Post http://kontakts.ru/showthread.php/40884?p=86214#post86214
+# Telega https://t.me/MrMicroPython 
 #В этом примере можно поиграть с цветами, меняя значения для set_pixel
 # и с яркостью через метод brightness()
 

@@ -1,3 +1,7 @@
+# Video https://youtu.be/I5QRBKMpMBE
+# Post http://kontakts.ru/showthread.php/40884?p=86214#post86214
+# Telega https://t.me/MrMicroPython 
+
 from ws2812lib import ws2812b
 import time
 
