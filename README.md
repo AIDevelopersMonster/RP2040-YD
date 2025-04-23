@@ -1,4 +1,4 @@
-Указание для ChatGPT напиши обзор и пример на языке MicroPython для проверки Increased FLASH memory from 2 to 4MB 
+
 
 #The RP2040-YD modules features the Raspberry Pi RP2040 chip
 
