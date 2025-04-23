@@ -1,16 +1,18 @@
 # ChatGPT_Task
-
-## :memo: INSTRUCTION
+# ChatGPT_AUTO_RUN
+## INSTRUCTION
 Сформируй структуру книги по теме: "Революция в автоматизации: от реле до искусственного интеллекта".
 Раздели на главы и кратко опиши каждую.
 
-## :open_file_folder: CONTEXT
+## CONTEXT
 Этот файл был вызван автоматически через CURL-сценарий с моего сервера Orange Pi.
 
-## :bookmark_tabs: OPTIONS
-- Формат вывода: Markdown
-- Максимум символов: 3000
-- Разрешено использовать эмодзи
+## OUTPUT_FORMAT
+markdown
 
-## :gear: NEXT_ACTION
-После генерации — сохранить результат в `chapter_plan.md`
+## RESPONSE_BEHAVIOR
+silent, no questions, do not wait for confirmation
+
+## NEXT_ACTION
+save as `chapter_plan.md`
+
